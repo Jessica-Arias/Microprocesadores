@@ -14,3 +14,6 @@ que encienda un led verde entre las 8:00 a.m. y las 10:00 p. m., y fuera de ese 
  - Utilice interrupciones para la detección de los eventos de ingreso y salida de vehículos, y para el manejo de las
 bases de tiempo que requiera para la solución.
 
+![image](https://user-images.githubusercontent.com/115200711/200978596-4c4687a5-a9e3-40dc-a598-39113e4b529e.png)
+
+
