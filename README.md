@@ -1,11 +1,16 @@
-# Parcial 2 - Microprocesadores.
+# Parcial 3 - Microprocesadores.
 
+1. Se desea controlar el acceso a un parqueadero e indicar a los usuarios la capacidad disponible de lugares de
+estacionamiento, figura 1. La capacidad del parqueadero es de 99, y se dispone de un sensor que genera un pulso cuando
+ingresa un vehículo y otro sensor que genera un pulso cuando sale un vehículo del parqueadero:
+ - Desarrolle el software para esta aplicación en lenguaje C para un microcontrolador ATMEGA2560. Considere un
+cristal de 16 MHz.
+ - La cantidad de cupos disponibles se debe visualizar cada 600ms por medio de 2 display de 7 segmentos de cátodo
+común.
+Suponga que para la visualización de los datos en los display dispone de una función que recibe un dato uint8_t entre
+0 y 9, y retorna un uint8_t con el equivalente en código 7 segmentos: uint8_t conv_7seg (uint8_t dato) .
+ - El parqueadero abre a las 8:00 a. m. y cierra a las 10:00 p. m., por lo tanto ha de desarrollar una aplicación de reloj
+que encienda un led verde entre las 8:00 a.m. y las 10:00 p. m., y fuera de ese horario lo mantenga apagado.
+ - Utilice interrupciones para la detección de los eventos de ingreso y salida de vehículos, y para el manejo de las
+bases de tiempo que requiera para la solución.
 
-Desarrolle el código en ensamblador para la siguiente aplicación. Suponga una frecuencia de reloj de 8 MHz.
-En algunas aplicaciones industriales y médicas es necesario medir el tiempo que dura activa (1 lógico) una señal generada
-externamente al microcontrolador cada vez que se activa. Desarrolle un programa que utilizando un Temporizador/Contador
-del microcontrolador, mida el tiempo en milisegundos que permanece en nivel alto la señal que se presenta en la figura 1
-cada vez que se activa, y muestre en binario el último valor medido a través de Puertos paralelos. Suponga que la duración
-máxima es 200 ms.
-
-Para el inicio de la temporización, detecte la activación de la señal a través de la interrupción externa 3.
