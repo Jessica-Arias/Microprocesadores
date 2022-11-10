@@ -1,0 +1,44 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>C:\Users\jessi\OneDrive\Documents\MICROPROCESADORES\Laboratorio1\Arias_Gallego_Laboratorio1_v2\Arias_Gallego_Laboratorio1_v2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\jessi\OneDrive\Documents\MICROPROCESADORES\Laboratorio1\Arias_Gallego_Laboratorio1_v2\Arias_Gallego_Laboratorio1_v2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\jessi\OneDrive\Documents\MICROPROCESADORES\Laboratorio1\Arias_Gallego_Laboratorio1_v2\Arias_Gallego_Laboratorio1_v2\Debug\Arias_Gallego_Laboratorio1_v2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Arias_Gallego_Laboratorio1_v2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Arias_Gallego_Laboratorio1_v2.map</FILE>
+  <FILE>Arias_Gallego_Laboratorio1_v2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INICIO><FILE>C:\Users\jessi\OneDrive\Documents\MICROPROCESADORES\Laboratorio1\Arias_Gallego_Laboratorio1_v2\Arias_Gallego_Laboratorio1_v2\main.asm</FILE><LINE>39</LINE></INICIO>
+  <INT_EXTERNA><FILE>C:\Users\jessi\OneDrive\Documents\MICROPROCESADORES\Laboratorio1\Arias_Gallego_Laboratorio1_v2\Arias_Gallego_Laboratorio1_v2\main.asm</FILE><LINE>110</LINE></INT_EXTERNA>
+  <INT_TEMP><FILE>C:\Users\jessi\OneDrive\Documents\MICROPROCESADORES\Laboratorio1\Arias_Gallego_Laboratorio1_v2\Arias_Gallego_Laboratorio1_v2\main.asm</FILE><LINE>94</LINE></INT_TEMP>
+  <BUCLE><FILE>C:\Users\jessi\OneDrive\Documents\MICROPROCESADORES\Laboratorio1\Arias_Gallego_Laboratorio1_v2\Arias_Gallego_Laboratorio1_v2\main.asm</FILE><LINE>89</LINE></BUCLE>
+  <AUMENTAR><FILE>C:\Users\jessi\OneDrive\Documents\MICROPROCESADORES\Laboratorio1\Arias_Gallego_Laboratorio1_v2\Arias_Gallego_Laboratorio1_v2\main.asm</FILE><LINE>122</LINE></AUMENTAR>
+  <HEX_7SEG><FILE>C:\Users\jessi\OneDrive\Documents\MICROPROCESADORES\Laboratorio1\Arias_Gallego_Laboratorio1_v2\Arias_Gallego_Laboratorio1_v2\main.asm</FILE><LINE>130</LINE></HEX_7SEG>
+  <FIN_AUM><FILE>C:\Users\jessi\OneDrive\Documents\MICROPROCESADORES\Laboratorio1\Arias_Gallego_Laboratorio1_v2\Arias_Gallego_Laboratorio1_v2\main.asm</FILE><LINE>128</LINE></FIN_AUM>
+  <CERO><FILE>C:\Users\jessi\OneDrive\Documents\MICROPROCESADORES\Laboratorio1\Arias_Gallego_Laboratorio1_v2\Arias_Gallego_Laboratorio1_v2\main.asm</FILE><LINE>131</LINE></CERO>
+  <UNO><FILE>C:\Users\jessi\OneDrive\Documents\MICROPROCESADORES\Laboratorio1\Arias_Gallego_Laboratorio1_v2\Arias_Gallego_Laboratorio1_v2\main.asm</FILE><LINE>136</LINE></UNO>
+  <FIN_HEX_7SEG><FILE>C:\Users\jessi\OneDrive\Documents\MICROPROCESADORES\Laboratorio1\Arias_Gallego_Laboratorio1_v2\Arias_Gallego_Laboratorio1_v2\main.asm</FILE><LINE>179</LINE></FIN_HEX_7SEG>
+  <DOS><FILE>C:\Users\jessi\OneDrive\Documents\MICROPROCESADORES\Laboratorio1\Arias_Gallego_Laboratorio1_v2\Arias_Gallego_Laboratorio1_v2\main.asm</FILE><LINE>141</LINE></DOS>
+  <TRES><FILE>C:\Users\jessi\OneDrive\Documents\MICROPROCESADORES\Laboratorio1\Arias_Gallego_Laboratorio1_v2\Arias_Gallego_Laboratorio1_v2\main.asm</FILE><LINE>146</LINE></TRES>
+  <CUATRO><FILE>C:\Users\jessi\OneDrive\Documents\MICROPROCESADORES\Laboratorio1\Arias_Gallego_Laboratorio1_v2\Arias_Gallego_Laboratorio1_v2\main.asm</FILE><LINE>151</LINE></CUATRO>
+  <CINCO><FILE>C:\Users\jessi\OneDrive\Documents\MICROPROCESADORES\Laboratorio1\Arias_Gallego_Laboratorio1_v2\Arias_Gallego_Laboratorio1_v2\main.asm</FILE><LINE>156</LINE></CINCO>
+  <SEIS><FILE>C:\Users\jessi\OneDrive\Documents\MICROPROCESADORES\Laboratorio1\Arias_Gallego_Laboratorio1_v2\Arias_Gallego_Laboratorio1_v2\main.asm</FILE><LINE>161</LINE></SEIS>
+  <SIETE><FILE>C:\Users\jessi\OneDrive\Documents\MICROPROCESADORES\Laboratorio1\Arias_Gallego_Laboratorio1_v2\Arias_Gallego_Laboratorio1_v2\main.asm</FILE><LINE>166</LINE></SIETE>
+  <OCHO><FILE>C:\Users\jessi\OneDrive\Documents\MICROPROCESADORES\Laboratorio1\Arias_Gallego_Laboratorio1_v2\Arias_Gallego_Laboratorio1_v2\main.asm</FILE><LINE>171</LINE></OCHO>
+  <NUEVE><FILE>C:\Users\jessi\OneDrive\Documents\MICROPROCESADORES\Laboratorio1\Arias_Gallego_Laboratorio1_v2\Arias_Gallego_Laboratorio1_v2\main.asm</FILE><LINE>176</LINE></NUEVE>
+ </LABELS>
+</ASSEMBLER_INFO>
